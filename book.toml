@@ -1,0 +1,5 @@
+[book]
+authors = ["Kyle Lin"]
+multilingual = false
+src = "src"
+title = "The Official NZSC Handbook"
