@@ -1,22 +1,14 @@
 # Reference
 
-[Characters](./reference.html#characters)
-
-[Boosters of each character](./reference.html#boosters-of-each-character)
-
-[Moves of each character](./reference.html#boosters-of-each-character)
-
-[Moves of each booster](./reference.html#moves-of-each-booster)
-
-[Headstarts](./reference.html#headstarts)
-
-[List of single-use moves](./reference.html#list-of-single-use-moves)
-
-[List of destructive moves](./reference.html#list-of-destructive-moves)
-
-[Penalties](./reference.html#penalties)
-
-[Outcome table ("truth table")](./reference.html#outcome-table-truth-table)
+- [Characters](./reference.html#characters)
+- [Boosters of each character](./reference.html#boosters-of-each-character)
+- [Moves of each character](./reference.html#boosters-of-each-character)
+- [Moves of each booster](./reference.html#moves-of-each-booster)
+- [Headstarts](./reference.html#headstarts)
+- [List of single-use moves](./reference.html#list-of-single-use-moves)
+- [List of destructive moves](./reference.html#list-of-destructive-moves)
+- [Penalties](./reference.html#penalties)
+- [Outcome table ("truth table")](./reference.html#outcome-table-truth-table)
 
 ## Characters
 ```text
