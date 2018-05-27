@@ -1,4 +1,5 @@
 # Summary
 
-- [What is NZSC?](./chapter_1.md)
-- [Learn by doing: Play NZSC](./chapter_2.md)
+[Foreword](./foreword.md)
+- [Learn by doing: Play NZSC](./tutorial.md)
+- [Reference](./reference.md)
