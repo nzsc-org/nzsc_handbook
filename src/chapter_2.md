@@ -10,7 +10,7 @@ To begin, open [this link](https://nzsc-org.github.io/nzsc_single_player_web/?se
 > You don't need to know exactly what this means; We'll explain more at the end of this chapter.
 > It's just important that you know that the above link will not take you to the true NZSC.
 
-You should see the following on your screen (if you don't, read [this page](./no_wasm.html) before continuing):
+You should see the following on your screen:
 
 ```text
 Choose a character:
@@ -19,6 +19,8 @@ Choose a character:
     Samurai
     Clown
 ```
+
+If you don't see any text on your screen, it means your browser doesn't support WebAssembly, so you should get a new browser (Google Chrome is recommended) or update your current one.
 
 ## Choosing a character
 Every game begins with each player choosing a unique _character_.
