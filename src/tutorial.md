@@ -389,7 +389,7 @@ You now know the basics of NZSC:
 4. First to 5 points wins.
 
 ## Debrief and Next steps
-Now that you have successfully completed your first game of NZSC, we encourage you to play some "real" games against the computer (we'll explain what we mean in a second).
+Now that you have successfully completed your first game of NZSC, we encourage you to play some "real" games against the computer (we'll explain what that means in a second).
 
 To play a "real" game, open [this link](https://nzsc-org.github.io/nzsc_single_player_web/).
 **It is different than the link we provided at the beginning of the chapter.**
@@ -414,3 +414,51 @@ While consistency is essential for writing a walk-through like this one, you'll 
 That will take you to a pre-seeded version of NZSC.
 
 The "real", random NZSC is located at [https://nzsc-org.github.io/nzsc_single_player_web/](https://nzsc-org.github.io/nzsc_single_player_web/).
+
+### A couple things we skipped
+We covered most of the rules of NZSC in this tutorial, but there are a few rules we didn't discuss.
+It is not absolutely essential to read this section, as you could figure out most of it on your own if you play enough games.
+
+#### Headstarts
+Remember at the beginning of the game, just after you chose your character, how it said:
+
+```text
+...
+
+You chose Clown.
+Computer chose Zombie.
+As a result, neither of you gets a headstart.
+The score is now 0-0.
+
+Choose a booster:
+	Backwards
+	Moustachio
+	No Booster
+```
+
+You might have been wondering what the sentence about the headstart meant.
+
+A headstart is just a point scored by choosing a certain character against another character.
+
+Ninja gets a headstart against Samurai.
+
+Samurai gets a headstart against Clown.
+
+Clown gets a headstart against Ninja.
+
+Zombie never gets a headstart, and no character gets a headstart against Zombie.
+
+
+#### Penalties
+What happens if you type something that's not a valid choice and press Enter?
+
+In NZSC, invalid choices are penalized by _waits_.
+
+Each player begins with 4 waits.
+Every time they make an invalid choice, they lose some waits.
+If their waits falls below 0, their waits will be set back to 0, and their opponent will score a point.
+
+For the list of penalties and how many waits they deduct, consult [the reference](./reference.html#penalties).
+
+#### Outcome table
+If you ever want to know if one move wins against another, you can consult [the reference](./reference.html#outcome-table-truth-table).
